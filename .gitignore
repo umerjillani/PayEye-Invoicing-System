@@ -3,3 +3,12 @@ venv/
 Data/
 Roadmap/
 Mastersheet/
+Scripts/validator.py
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
