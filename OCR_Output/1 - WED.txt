@@ -1,0 +1,24 @@
+V1.4
+SELF BILL INVOICE
+FROM: PayWize Limited Remittance Ref: 203054
+291 Church Road Invoice No: 203054
+London Invoice Date: 08 Jan 2025
+VAT No: 477513761
+Company No: 15196449
+E10 7BQ
+PayWize Limited
+TO: Archer Resourcing Ltd
+Robert Ransome House, Floor 2
+19 Carr Street
+Ipswich
+IP4 1ER
+VAT No: 474713377
+Candidate TS Ref Period End Description Net VAT VAT % Total
+Tapiwa Mandeya 17936372 05/01/2025
+Standard Rate 19.50 Hour(s) @ 55.00 1,072.50 214.50 20.00 1,287.00
+Total before VAT 1,072.50
+VAT 214.50
+TOTAL (GBP) 1,287.00
+Please note that the above amount will be paid by BACS on 10 Jan 2025
+In the event of any queries please contact accounts@archerresourcing.co.uk on 01473 939670
+THE VAT SHOWING IS YOUR OUTPUT TAX DUE TO HMRC

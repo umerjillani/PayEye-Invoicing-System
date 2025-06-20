@@ -1,0 +1,24 @@
+Invoice
+Julia Nheta Invoice Number Nheta11/05/2025-
+BR229312
+Invoice Date 14/05/2025
+To: For:
+Health Professionals
+9-11 New Road Slough
+Bromsgrove Berkshire
+Worcestershire SL2 1ST
+B60 2JF
+Invoice Summary
+Services for week ending 11/05/2025:
+Hours Rate Amount
+Week Day 7.50 £23.50 £176.26
+Additions/Deductions
+£14.26 deducted for shift 220325 £14.26
+Total £161.99
+Invoice Breakdown
+Trust Date of Shift Booking Week Week Sat Sun Public Total
+Reference day night Holiday
+ASHFORD AND ST PETER'S HOSPITALS NHS TRUST
+08/05/2025 6258330 7.50 7.50
+Total 7.50 7.50
+Thank you for your business!
